@@ -10,6 +10,13 @@ Magisk Module to get the Android 10 Launcher on unnsupported devices/roms.
 * Magisk 18 or higher
 * Android 10 only
 
+## Installation:
+
+ 1. Flash the module in Magisk or TWRP
+ 2. Reboot
+ 3. Set defualt launcher a Pixel Launcher
+ 4. Reboot again
+
 ## Sources:
 
    * [Magisk](https://github.com/topjohnwu/Magisk) by [topjohnwu](https://github.com/topjohnwu)
